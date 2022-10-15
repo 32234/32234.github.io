@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 This is Tianyi Fu's home on the web!
+Lorem ipsum.
