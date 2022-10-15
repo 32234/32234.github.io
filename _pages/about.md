@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-This is Tianyi Fu's home on the web!
+Hi~ I am Tianyi Fu (付添翼 in Chinese), or T1 simply. I am currently a Master student at Zhejiang University, advised by Dr. [Kai Bu](https://list.zju.edu.cn/kaibu/). In summer of 2022, I obtained my bachelor degree of Engineering from School of Computer Science, Zhejiang University.
