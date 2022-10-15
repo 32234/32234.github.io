@@ -25,11 +25,11 @@ Work experience
 Skills
 ======
 * Programming ability in C/C++, Python, Java, JavaScript
-* Skill 2
+<!-- * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
 Publications
 ======
