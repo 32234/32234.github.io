@@ -6,4 +6,4 @@ tags:
   - reading
 ---
 
-first blog 
+my first blog
